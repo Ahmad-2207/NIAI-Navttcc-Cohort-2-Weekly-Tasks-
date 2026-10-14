@@ -23,3 +23,4 @@ Needs: numpy, pandas, matplotlib, seaborn, scikit-learn (see week_01/task_01_ins
 - Tasks 15 to 27, 41 to 48 link to online tutorials. These files contain original exercises on the same topics.
 - Task 1 (installation) cannot be done from code, so it has step-by-step instructions plus a script that checks your install.
 - Week 4 data files are in week_04/data. Weeks 4 and 5 also save PNG charts next to the scripts.
+# NIAI-Navttcc-Cohort-2-Weekly-Tasks-
